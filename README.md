@@ -2,7 +2,6 @@
 
 The simplest temperature measurement station was built during this project, all the necessary and detailed information is in [pdf](./Report.pdf) file.
 
-<img src="./photo.jpg" alt="DC Motor" width="600">
 
 
 ## Key results
