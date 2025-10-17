@@ -1,6 +1,6 @@
 ## About
 
-The simplest temperature measurement station was built during this project, all the necessary and detailed information is in pdf file(./Report.pdf).
+The simplest temperature measurement station was built during this project, all the necessary and detailed information is in pdf file [Report](./Report.pdf).
 
 
 ## Key results
