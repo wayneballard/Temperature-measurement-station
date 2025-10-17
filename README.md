@@ -2,6 +2,7 @@
 
 The simplest temperature measurement station was built during this project, all the necessary and detailed information is in [pdf](./Report.pdf) file.
 
+![photo](./photo.jpg)
 
 ## Key results
 
