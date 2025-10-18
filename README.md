@@ -18,7 +18,7 @@ port
 
 The project was completed using STM32CubeIDE version 1.16.1 on NUCLEO development kit with the STM32F746ZG microcontroller + Temrinal app which communicates through UART.
 
-##IMPORTANT
+## IMPORTANT
 
 For better performance it is suggested to use higher power supply(I used 9V battery which turned out not to be enough) and retune gains. In my case the PID controller is very sluggish.
 
